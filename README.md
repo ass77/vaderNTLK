@@ -1,2 +1,3 @@
 # vaderNTLK
-Sentiment Analysis
+Sentiment Analysis @ finviz using NLTK
+
